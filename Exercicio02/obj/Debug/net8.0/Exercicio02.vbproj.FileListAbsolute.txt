@@ -1,0 +1,14 @@
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio02\obj\Debug\net8.0\Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio02\obj\Debug\net8.0\Exercicio02.AssemblyInfoInputs.cache
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio02\obj\Debug\net8.0\Exercicio02.AssemblyInfo.vb
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio02\obj\Debug\net8.0\Exercicio02.vbproj.CoreCompileInputs.cache
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio02\bin\Debug\net8.0\Exercicio02.exe
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio02\bin\Debug\net8.0\Exercicio02.deps.json
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio02\bin\Debug\net8.0\Exercicio02.runtimeconfig.json
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio02\bin\Debug\net8.0\Exercicio02.dll
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio02\bin\Debug\net8.0\Exercicio02.pdb
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio02\obj\Debug\net8.0\Exercicio02.dll
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio02\obj\Debug\net8.0\refint\Exercicio02.dll
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio02\obj\Debug\net8.0\Exercicio02.pdb
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio02\obj\Debug\net8.0\Exercicio02.genruntimeconfig.cache
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio02\obj\Debug\net8.0\ref\Exercicio02.dll

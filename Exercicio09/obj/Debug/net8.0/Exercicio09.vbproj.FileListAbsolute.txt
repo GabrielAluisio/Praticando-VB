@@ -1,0 +1,14 @@
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio09\bin\Debug\net8.0\Exercicio09.exe
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio09\bin\Debug\net8.0\Exercicio09.deps.json
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio09\bin\Debug\net8.0\Exercicio09.runtimeconfig.json
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio09\bin\Debug\net8.0\Exercicio09.dll
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio09\bin\Debug\net8.0\Exercicio09.pdb
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio09\obj\Debug\net8.0\Exercicio09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio09\obj\Debug\net8.0\Exercicio09.AssemblyInfoInputs.cache
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio09\obj\Debug\net8.0\Exercicio09.AssemblyInfo.vb
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio09\obj\Debug\net8.0\Exercicio09.vbproj.CoreCompileInputs.cache
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio09\obj\Debug\net8.0\Exercicio09.dll
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio09\obj\Debug\net8.0\refint\Exercicio09.dll
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio09\obj\Debug\net8.0\Exercicio09.pdb
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio09\obj\Debug\net8.0\Exercicio09.genruntimeconfig.cache
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\Exercicios vb.net\Exercicio09\obj\Debug\net8.0\ref\Exercicio09.dll

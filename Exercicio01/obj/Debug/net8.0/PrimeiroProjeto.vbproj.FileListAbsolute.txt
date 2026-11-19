@@ -1,0 +1,14 @@
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.exe
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.deps.json
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.runtimeconfig.json
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.dll
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.pdb
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfo.vb
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.vbproj.CoreCompileInputs.cache
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.dll
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\PrimeiroProjeto\obj\Debug\net8.0\refint\PrimeiroProjeto.dll
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.pdb
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
+C:\Users\Polo.CPD-ESTAGIARIO4\Documents\PrimeiroProjeto\obj\Debug\net8.0\ref\PrimeiroProjeto.dll
